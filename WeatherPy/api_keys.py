@@ -1,4 +1,4 @@
-# Google Key
+#Google Key
 g_key = "YOUR KEY HERE"
 
 # OpenWeatherMap API Key
